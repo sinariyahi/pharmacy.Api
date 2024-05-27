@@ -1,4 +1,4 @@
-![download](https://github.com/sinariyahi/Pharmacy.Api/assets/83516373/04d94e3b-d3be-4282-ad37-c2a95cc54e4a)
+![داروخانه](https://github.com/sinariyahi/Pharmacy.Api/assets/83516373/9d16b889-4aac-48db-bece-70b2c4cc8c46)
 
 
 REST API design with ASP.NET Core WebAPI🥇
